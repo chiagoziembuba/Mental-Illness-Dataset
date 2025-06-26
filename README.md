@@ -42,13 +42,13 @@ Over 12,000 students reported financial stress, strongly associated with depress
 
 Financially stressed students are more likely to report suicidal tendencies.
 
-4. Diet and Lifestyle
+<strong>4. Diet and Lifestyle</strong>
 
 Students with unhealthy dietary habits are more represented among those suffering from depression.
 
 Those with a family history of mental illness show higher depression rates, particularly among females.
 
-📌 Demographic Trends
+<strong>📌 Demographic Trends</strong>
 
 Age Group 18–25 has the highest depression count (9.4K students), followed by the 26–35 group.
 
@@ -56,17 +56,17 @@ Depression rates vary by city, with Kalyan, Hyderabad, and Srinagar leading.
 
 More females (9K) report depression compared to males (7K).
 
-📈 Data-Driven Recommendations
+<strong>📈 Data-Driven Recommendations</strong>
 
-Mental Health Support: Institutions should deploy targeted counseling for high-risk groups (18–25 years, financially stressed, and high academic pressure).
+<strong>Mental Health Support:</strong> Institutions should deploy targeted counseling for high-risk groups (18–25 years, financially stressed, and high academic pressure).
 
-Academic Workload Reform: Redesign curricula to reduce burnout and introduce flexible deadlines or modular coursework.
+<strong>Academic Workload Reform:</strong> Redesign curricula to reduce burnout and introduce flexible deadlines or modular coursework.
 
-Financial Aid Programs: Provide accessible scholarships, emergency funds, and budgeting workshops.
+<strong>Financial Aid Programs:</strong> Provide accessible scholarships, emergency funds, and budgeting workshops.
 
-Health & Wellness Campaigns: Promote healthy eating, sleep hygiene, and digital detox routines.
+<strong>Health & Wellness Campaigns:</strong> Promote healthy eating, sleep hygiene, and digital detox routines.
 
-🗣️ Final Note
+<strong>🗣️ Final Note</strong>
 
 This analysis not only uncovers the alarming prevalence of depression but also empowers educators and policymakers with actionable insights. The goal is simple: support students holistically, beyond grades and classes.
 
