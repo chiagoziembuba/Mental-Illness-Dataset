@@ -4,9 +4,9 @@ My assessment of the High Rate of Mental Illness &amp; Depression in University 
 
 This analysis investigates the contributing factors to student depression using survey data from over 28,000 students. It explores how variables such as sleep hours, academic pressure, dietary habits, financial stress, and study hours correlate with depression levels.
 
-🧠 High-Level Insights
+<strong>🧠 High-Level Insights</strong>
 
-Depression Rate: 58.52% of students in the dataset reported experiencing depression.
+<strong>Depression Rate:</strong> 58.52% of students in the dataset reported experiencing depression.
 
 Suicidal Rate: A staggering 63.27%, signaling serious mental health risks.
 
