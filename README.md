@@ -8,9 +8,9 @@ This analysis investigates the contributing factors to student depression using 
 
 <strong>Depression Rate:</strong> 58.52% of students in the dataset reported experiencing depression.
 
-Suicidal Rate: A staggering 63.27%, signaling serious mental health risks.
+<strong>Suicidal Rate:</strong> A staggering 63.27%, signaling serious mental health risks.
 
-Top Contributing Factors:
+<strong>Top Contributing Factors:</strong>
 
 Academic Pressure
 
