@@ -20,15 +20,15 @@ Poor Sleep
 
 Low Study Satisfaction
 
-🕵️ Key Findings
+<strong>🕵️ Key Findings</strong>
 
-1. Sleep and Study Patterns
+<strong>1. Sleep and Study Patterns</strong>
 
 Students average 6.38 hours of sleep and 7.16 hours of study per day.
 
 Despite decent CGPA scores (avg. 7.66), high suicidal and depression rates suggest grades are not a buffer for mental health.
 
-2. Academic Pressure
+<strong>2. Academic Pressure</strong>
 
 Pressure is significantly higher among male students.
 
@@ -36,7 +36,7 @@ Cities like Kalyan and Hyderabad show the highest number of depressed students.
 
 There is a direct correlation between higher academic pressure and increased depression.
 
-3. Financial Stress
+<strong>3. Financial Stress</strong>
 
 Over 12,000 students reported financial stress, strongly associated with depression.
 
