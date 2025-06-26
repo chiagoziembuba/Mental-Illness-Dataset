@@ -1,6 +1,6 @@
 # Understanding Student Depression
 My assessment of the High Rate of Mental Illness &amp; Depression in University Students.
-<br>Objective<br>
+<br>Objective</b>
 
 This analysis investigates the contributing factors to student depression using survey data from over 28,000 students. It explores how variables such as sleep hours, academic pressure, dietary habits, financial stress, and study hours correlate with depression levels.
 
